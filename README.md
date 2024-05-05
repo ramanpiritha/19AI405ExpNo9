@@ -1,4 +1,5 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+<h3>Date:08-05-2024
 <h3>Name: Piritharaman R</h3>
 <h3>Register Number: 212223230148</h3>
 <H3>Aim:</H3>
